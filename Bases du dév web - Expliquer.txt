@@ -1,0 +1,50 @@
+A. Quels sont les rôles respectifs du HTML, du CSS et 
+du JavaScript sur une page web ?
+- Le HTML permet de construire la structure, affiche le 
+contenu du site web ;
+- Le CSS donne le style du site web ;
+- Le Javascript ajoute de la logique au site, de 
+l'interactivité.
+
+B. Qu’est-ce que le DOM ?
+- Le DOM (Document Object Model) est une interface de 
+programmation qui permet d'accéder aux éléments d'une page 
+et de les modifier avec le langage Javascript grâce à leur 
+ID, class, nom de balise ou encore avec les sélecteurs CSS.
+=> modification du contenu d'un élément
+=> modification du style d'un élément
+=> création ou suppression d'éléments
+=> interaction avec les utilisateurs, etc.
+- Chaque élément du DOM est un objet JS avec ses propriétés 
+et ses fonctions pour le manipuler.
+
+C. Qu’est-ce qu’une API ? 
+- Les API permettent d'accéder à un service comme des données 
+ou des fonctionnalités fournies par un système tiers. Par 
+exemple, elles peuvent faire communiquer deux applications :
+une, consommatrice d'un service, et une autre, productrice de
+ce service.
+- Grâce aux API, le développement d'applications se retrouve 
+simplifié, c'est un gain de temps et d'argent pour les
+développeurs qui profitent ainsi de fonctionnalités
+déjà existantes.
+- Elles offrent aussi des opportunités business : en plus 
+d'être un outil technique, elles sont aussi un produit, une
+source de revenus pour les organisations qui les mettent en
+place (et qui vendent leur usage aux développeurs).
+
+D. Quelles sont les 4 grandes fonctionnalités les plus 
+communément fournies par une API ?
+- .
+
+E. Quel protocole réseau utilise un site/une application web 
+pour communiquer avec une API ?
+- Le protocole HTTP (Hypertext transfer protocol) permet de 
+communiquer avec un service web comme une API, d'échanger des
+données et d'envoyer un code de statut.
+
+F. Qu’est-ce qu’une requête ? Nommer 4 types de requêtes.
+- Les requêtes sont des demandes auxquelles un service web 
+(programme) répond. Comme GET (pour récupérer des ressources),
+POST (pour en créer ou en modifier), PUT (pour en créer), 
+DELETE (pour en supprimer).
